@@ -59,14 +59,8 @@ README.md        # This documentation
 > ⚠️ Note: Patient names and IDs in screenshots have been anonymized to protect privacy.
 
 ---
-
-<<<<<<< HEAD
-**Created and maintained by [Mihaaq Systems](https://github.com/mihaaq)**  
-*Refactor Engineer • Java Modular Specialist • Worldbuilder*
-=======
 **Created and maintained by [Mihaaq](https://github.com/mihaaq)**  
 *Refactor Engineer • Java Modular Specialist • Worldbuilder*
 > ⚠️ Note: This refactor was based on an open-source hospital information system.  
 > The original base project is publicly available and maintained by its respective contributors.  
-> Refactor and modular changes were made independently under the Mihaaq brand.
->>>>>>> 83bec73 (Initial commit: Refactor legacy Java billing system)
+> Refactor and modular changes were made independently under the Mihaaq.
